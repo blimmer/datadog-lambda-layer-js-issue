@@ -1,0 +1,16 @@
+{
+  "name": "test-datadog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datadog-lambda-js": "2.23.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
